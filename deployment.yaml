@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1
-          image: hussain7733/v1.0.0
+          image:  hussain7733/taxi4:v7.0.3 
           ports:
             - containerPort: 8080
 ---
